@@ -1,0 +1,17 @@
+*{
+    border : 5px solid orangered;
+    padding : 10px;
+}
+
+h1{
+    color :coral;
+    text-align: center;
+    border :5px solid brown;
+    font-size : 50px;
+}
+p {
+    background-color:darkgoldenrod;
+    color :palegoldenrod;
+    border :5px solid brown;
+    text-align: center;
+}
